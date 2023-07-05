@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100svh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    color: aqua;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
